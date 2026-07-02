@@ -1,6 +1,6 @@
 # testandoGitHub
 Para testar o GitHub Assistant
 
-![Urgente](https://shields.io)
-![Sucesso](https://shields.io)
+![Urgente](https://img.shields.io/badge/Status-Urgente-red)
 
+![Sucesso](https://img.shields.io/badge/Status-Sucesso-brightgreen)
